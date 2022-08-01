@@ -3,7 +3,7 @@ package school.mjc.stage0.loops.task5;
 import school.mjc.stage0.base.BaseIOTest;
 import org.junit.jupiter.api.Test;
 
-class SquareTest extends BaseIOTest {
+class  SquareTest extends BaseIOTest {
 
     @Test
     void printSquareFrom8sPrintsSquare() {
